@@ -1,1 +1,3 @@
 pull:frtch from and integrate and refs from another repository
+git add 
+git push
